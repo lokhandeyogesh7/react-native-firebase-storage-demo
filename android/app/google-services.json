@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657643440026",
+    "project_id": "uploadfiledemo-e5aba",
+    "storage_bucket": "uploadfiledemo-e5aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657643440026:android:a88f22ef7a68ae9d3d1c23",
+        "android_client_info": {
+          "package_name": "com.uploadfiledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657643440026-99qrhd8sqtt35smdf8cvq6l8pj4pd775.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKwTy0eZOvC10qXqb42mFG33JirsUz3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657643440026-99qrhd8sqtt35smdf8cvq6l8pj4pd775.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
